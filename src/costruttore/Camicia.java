@@ -1,5 +1,5 @@
 package costruttore;
-
+ 
 import java.util.Scanner;
 
 public class Camicia {

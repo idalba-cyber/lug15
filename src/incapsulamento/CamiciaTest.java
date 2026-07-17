@@ -1,7 +1,7 @@
 package incapsulamento;
 
 import java.util.Scanner;
-
+ 
 public class CamiciaTest {
 
 	public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package incapsulamento;
 
 import java.util.Scanner;
-
+ 
 public class Camicia {
 	
 	// campi private perchè incapsulati, cioè non accessibili direttamente dall'esterno alla classe
